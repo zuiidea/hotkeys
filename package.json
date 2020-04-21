@@ -58,7 +58,7 @@
     "babel-eslint": "10.1.0",
     "bannerjs": "1.0.7",
     "classnames": "2.2.6",
-    "colors-cli": "1.0.26",
+    "colors-cli": "1.0.27",
     "cross-env": "7.0.2",
     "eslint": "6.8.0",
     "eslint-config-airbnb": "18.1.0",
